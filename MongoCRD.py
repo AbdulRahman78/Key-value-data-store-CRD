@@ -3,7 +3,6 @@ import threading
 import pymongo
 from pymongo import MongoClient
 import threading 
-d = dict()
 mydb = MongoClient("mongodb://127.0.0.1:27017/gssapiServiceName=mongodb")
 db = mydb["freshworks"]
 collection = db["crd"]
