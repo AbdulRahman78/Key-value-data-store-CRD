@@ -1,6 +1,5 @@
 # Key-value-data-store-CRD
 
-Problem statement by freshworks
 ## MongoCRD.py created to store data into MongoDB database with the following constraints
 The data store will support the following :
 
